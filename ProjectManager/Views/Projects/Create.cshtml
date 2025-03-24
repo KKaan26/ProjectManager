@@ -1,0 +1,25 @@
+﻿@model Project
+<h2>Proje @(Model?.Id == 0 ? "Oluştur" : "Düzenle")</h2>
+
+<form asp-action="@((Model?.Id == 0) ? "Create" : "Edit")" method="post">
+    <div class="form-group">
+        <label>Proje Adı</label>
+        <input asp-for="Name" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Başlangıç Tarihi</label>
+        <input asp-for="StartDate" type="date" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Tahmini Bitiş Tarihi</label>
+        <input asp-for="EstimatedEndDate" type="date" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-success">Kaydet</button>
+</form>
+
+@if (Model?.Id > 0)
+{
+    <form asp-action="Delete" asp-route-id="@Model.Id" method="post" onsubmit="return confirm('Bu projeyi silmek istediğinizden emin misiniz?');">
+        <button type="submit" class="btn btn-danger mt-2">Sil</button>
+    </form>
+}
