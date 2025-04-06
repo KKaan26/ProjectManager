@@ -12,4 +12,6 @@ public class Project
 
     [DataType(DataType.Date)]
     public DateTime EstimatedEndDate { get; set; }
+
+    public ICollection<TaskItem> Tasks { get; set; } = new List<TaskItem>();
 }

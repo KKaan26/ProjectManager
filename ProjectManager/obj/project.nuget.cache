@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XY0kTCj1nA8=",
+  "dgSpecHash": "mpiiRdS1EGc=",
   "success": true,
-  "projectFilePath": "D:\\ProjectM\\ProjectManager\\ProjectManager\\ProjectManager.csproj",
+  "projectFilePath": "C:\\Users\\kaann\\OneDrive\\Belgeler\\GitHub\\ProjectManager\\ProjectManager\\ProjectManager.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kaann\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\kaann\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

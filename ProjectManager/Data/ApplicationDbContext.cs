@@ -7,4 +7,7 @@ public class ApplicationDbContext : DbContext
     : base(options) { }
 
     public DbSet<Project> Projects { get; set; }
+
+    public DbSet<TaskItem> TaskItems { get; set; }
+
 }
