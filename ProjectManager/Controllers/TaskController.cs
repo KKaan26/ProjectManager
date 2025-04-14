@@ -27,17 +27,7 @@ namespace ProjectManager.Controllers
             return Ok();
         }
 
-        [HttpPost]
-        public async Task<IActionResult> CreateTask(TaskItem task)
-        {
-            if (ModelState.IsValid)
-            {
-                _context.TaskItems.Add(task);
-                await _context.SaveChangesAsync();
-            }
-
-            return RedirectToAction("Details", "Projects", new { id = task.ProjectId });
-        }
+     
 
     }
 

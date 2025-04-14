@@ -3,36 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\kaann\\OneDrive\\Belgeler\\GitHub\\ProjectManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9FD449A9-FF6E-4198-AEFA-EA0537105E7F}|ProjectManager\\ProjectManager.csproj|c:\\users\\kaann\\onedrive\\belgeler\\github\\projectmanager\\projectmanager\\views\\projects\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9FD449A9-FF6E-4198-AEFA-EA0537105E7F}|ProjectManager\\ProjectManager.csproj|solutionrelative:projectmanager\\views\\projects\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9FD449A9-FF6E-4198-AEFA-EA0537105E7F}|ProjectManager\\ProjectManager.csproj|c:\\users\\kaann\\onedrive\\belgeler\\github\\projectmanager\\projectmanager\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9FD449A9-FF6E-4198-AEFA-EA0537105E7F}|ProjectManager\\ProjectManager.csproj|solutionrelative:projectmanager\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9FD449A9-FF6E-4198-AEFA-EA0537105E7F}|ProjectManager\\ProjectManager.csproj|c:\\users\\kaann\\onedrive\\belgeler\\github\\projectmanager\\projectmanager\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9FD449A9-FF6E-4198-AEFA-EA0537105E7F}|ProjectManager\\ProjectManager.csproj|solutionrelative:projectmanager\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9FD449A9-FF6E-4198-AEFA-EA0537105E7F}|ProjectManager\\ProjectManager.csproj|c:\\users\\kaann\\onedrive\\belgeler\\github\\projectmanager\\projectmanager\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9FD449A9-FF6E-4198-AEFA-EA0537105E7F}|ProjectManager\\ProjectManager.csproj|solutionrelative:projectmanager\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9FD449A9-FF6E-4198-AEFA-EA0537105E7F}|ProjectManager\\ProjectManager.csproj|c:\\users\\kaann\\onedrive\\belgeler\\github\\projectmanager\\projectmanager\\views\\projects\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9FD449A9-FF6E-4198-AEFA-EA0537105E7F}|ProjectManager\\ProjectManager.csproj|solutionrelative:projectmanager\\views\\projects\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9FD449A9-FF6E-4198-AEFA-EA0537105E7F}|ProjectManager\\ProjectManager.csproj|c:\\users\\kaann\\onedrive\\belgeler\\github\\projectmanager\\projectmanager\\views\\projects\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FD449A9-FF6E-4198-AEFA-EA0537105E7F}|ProjectManager\\ProjectManager.csproj|solutionrelative:projectmanager\\views\\projects\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9FD449A9-FF6E-4198-AEFA-EA0537105E7F}|ProjectManager\\ProjectManager.csproj|c:\\users\\kaann\\onedrive\\belgeler\\github\\projectmanager\\projectmanager\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9FD449A9-FF6E-4198-AEFA-EA0537105E7F}|ProjectManager\\ProjectManager.csproj|solutionrelative:projectmanager\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9FD449A9-FF6E-4198-AEFA-EA0537105E7F}|ProjectManager\\ProjectManager.csproj|c:\\users\\kaann\\onedrive\\belgeler\\github\\projectmanager\\projectmanager\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9FD449A9-FF6E-4198-AEFA-EA0537105E7F}|ProjectManager\\ProjectManager.csproj|solutionrelative:projectmanager\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9FD449A9-FF6E-4198-AEFA-EA0537105E7F}|ProjectManager\\ProjectManager.csproj|c:\\users\\kaann\\onedrive\\belgeler\\github\\projectmanager\\projectmanager\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD449A9-FF6E-4198-AEFA-EA0537105E7F}|ProjectManager\\ProjectManager.csproj|solutionrelative:projectmanager\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9FD449A9-FF6E-4198-AEFA-EA0537105E7F}|ProjectManager\\ProjectManager.csproj|c:\\users\\kaann\\onedrive\\belgeler\\github\\projectmanager\\projectmanager\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9FD449A9-FF6E-4198-AEFA-EA0537105E7F}|ProjectManager\\ProjectManager.csproj|solutionrelative:projectmanager\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD449A9-FF6E-4198-AEFA-EA0537105E7F}|ProjectManager\\ProjectManager.csproj|c:\\users\\kaann\\onedrive\\belgeler\\github\\projectmanager\\projectmanager\\views\\projects\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9FD449A9-FF6E-4198-AEFA-EA0537105E7F}|ProjectManager\\ProjectManager.csproj|solutionrelative:projectmanager\\views\\projects\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD449A9-FF6E-4198-AEFA-EA0537105E7F}|ProjectManager\\ProjectManager.csproj|c:\\users\\kaann\\onedrive\\belgeler\\github\\projectmanager\\projectmanager\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD449A9-FF6E-4198-AEFA-EA0537105E7F}|ProjectManager\\ProjectManager.csproj|solutionrelative:projectmanager\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,17 +38,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\kaann\\OneDrive\\Belgeler\\GitHub\\ProjectManager\\ProjectManager\\Views\\Projects\\Details.cshtml",
               "RelativeDocumentMoniker": "ProjectManager\\Views\\Projects\\Details.cshtml",
               "ToolTip": "C:\\Users\\kaann\\OneDrive\\Belgeler\\GitHub\\ProjectManager\\ProjectManager\\Views\\Projects\\Details.cshtml",
               "RelativeToolTip": "ProjectManager\\Views\\Projects\\Details.cshtml",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAAGsAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-24T10:31:01.412Z",
               "IsPinned": true,
@@ -60,7 +56,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\kaann\\OneDrive\\Belgeler\\GitHub\\ProjectManager\\ProjectManager\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "ProjectManager\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\kaann\\OneDrive\\Belgeler\\GitHub\\ProjectManager\\ProjectManager\\Models\\Project.cs",
+              "RelativeToolTip": "ProjectManager\\Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T10:30:26.084Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\kaann\\OneDrive\\Belgeler\\GitHub\\ProjectManager\\ProjectManager\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ProjectManager\\Views\\Shared\\_Layout.cshtml",
@@ -73,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\kaann\\OneDrive\\Belgeler\\GitHub\\ProjectManager\\ProjectManager\\Views\\Projects\\Index.cshtml",
               "RelativeDocumentMoniker": "ProjectManager\\Views\\Projects\\Index.cshtml",
@@ -86,39 +96,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Project.cs",
-              "DocumentMoniker": "C:\\Users\\kaann\\OneDrive\\Belgeler\\GitHub\\ProjectManager\\ProjectManager\\Models\\Project.cs",
-              "RelativeDocumentMoniker": "ProjectManager\\Models\\Project.cs",
-              "ToolTip": "C:\\Users\\kaann\\OneDrive\\Belgeler\\GitHub\\ProjectManager\\ProjectManager\\Models\\Project.cs",
-              "RelativeToolTip": "ProjectManager\\Models\\Project.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T10:30:26.084Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TaskController.cs",
-              "DocumentMoniker": "C:\\Users\\kaann\\OneDrive\\Belgeler\\GitHub\\ProjectManager\\ProjectManager\\Controllers\\TaskController.cs",
-              "RelativeDocumentMoniker": "ProjectManager\\Controllers\\TaskController.cs",
-              "ToolTip": "C:\\Users\\kaann\\OneDrive\\Belgeler\\GitHub\\ProjectManager\\ProjectManager\\Controllers\\TaskController.cs",
-              "RelativeToolTip": "ProjectManager\\Controllers\\TaskController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T10:34:11.538Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ProjectController.cs",
               "DocumentMoniker": "C:\\Users\\kaann\\OneDrive\\Belgeler\\GitHub\\ProjectManager\\ProjectManager\\Controllers\\ProjectController.cs",
               "RelativeDocumentMoniker": "ProjectManager\\Controllers\\ProjectController.cs",
               "ToolTip": "C:\\Users\\kaann\\OneDrive\\Belgeler\\GitHub\\ProjectManager\\ProjectManager\\Controllers\\ProjectController.cs",
               "RelativeToolTip": "ProjectManager\\Controllers\\ProjectController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAowFEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwBYAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T10:29:53.83Z",
               "EditorCaption": ""
@@ -133,18 +117,17 @@
               "RelativeToolTip": "ProjectManager\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T10:29:27.847Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-24T10:29:27.847Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "TaskItem.cs",
               "DocumentMoniker": "C:\\Users\\kaann\\OneDrive\\Belgeler\\GitHub\\ProjectManager\\ProjectManager\\Models\\TaskItem.cs",
               "RelativeDocumentMoniker": "ProjectManager\\Models\\TaskItem.cs",
               "ToolTip": "C:\\Users\\kaann\\OneDrive\\Belgeler\\GitHub\\ProjectManager\\ProjectManager\\Models\\TaskItem.cs",
               "RelativeToolTip": "ProjectManager\\Models\\TaskItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T10:29:00.461Z",
               "EditorCaption": ""

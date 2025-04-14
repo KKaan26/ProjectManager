@@ -19,5 +19,5 @@ public class TaskItem
 
     // Foreign Key
     public int ProjectId { get; set; }
-    public Project Project { get; set; }
+    public Project? Project { get; set; }
 }

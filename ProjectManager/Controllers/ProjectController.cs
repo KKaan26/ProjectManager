@@ -19,6 +19,33 @@ public class ProjectsController : Controller
     {
         return View();
     }
+    [HttpPost]
+    public async Task<IActionResult> CreateTask(TaskItem task)
+    {
+        // Çünkü formdan sadece ProjectId geliyor, Project objesi null
+        ModelState.Remove("Project");
+
+        if (ModelState.IsValid)
+        {
+            _context.TaskItems.Add(task);
+            await _context.SaveChangesAsync();
+
+            return RedirectToAction("Details", "Projects", new { id = task.ProjectId });
+        }
+
+        // Hataları loglamaya devam
+        foreach (var value in ModelState.Values)
+        {
+            foreach (var error in value.Errors)
+            {
+                Console.WriteLine("Model error: " + error.ErrorMessage);
+            }
+        }
+
+        return BadRequest(ModelState);
+    }
+
+
 
     [HttpPost]
     public async Task<IActionResult> Create(Project project)
