@@ -107,5 +107,34 @@ public class ProjectsController : Controller
         return View(project);
     }
 
+    [HttpPost]
+    public async Task<IActionResult> UpdateTask(TaskItem updatedTask)
+    {
+        var task = await _context.TaskItems.FindAsync(updatedTask.Id);
+        if (task == null) return NotFound();
+
+        task.Description = updatedTask.Description;
+        task.StartDate = updatedTask.StartDate;
+        task.EstimatedEndDate = updatedTask.EstimatedEndDate;
+
+        await _context.SaveChangesAsync();
+
+        return RedirectToAction("Details", "Projects", new { id = updatedTask.ProjectId });
+    }
+
+    [HttpPost]
+    [Route("Tasks/DeleteTask/{id}")]
+    public async Task<IActionResult> DeleteTask(int id)
+    {
+        var task = await _context.TaskItems.FindAsync(id);
+        if (task == null) return NotFound();
+
+        _context.TaskItems.Remove(task);
+        await _context.SaveChangesAsync();
+
+        return Ok();
+    }
+
+
 
 }
